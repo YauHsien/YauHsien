@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ----
 - 第二次以 Erlang 實作 ParseC https://github.com/YauHsien/erljscon/tree/master/parsec
   - 十年前第一次實作 ParseC https://github.com/YauHsien/erljscon
-- （）多用戶交易的社群平台競購模型驗證 https://github.com/YauHsien/trade
+- （啟動中）多用戶交易的社群平台競購模型驗證 https://github.com/YauHsien/trade
