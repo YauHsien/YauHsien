@@ -21,3 +21,8 @@ Here are some ideas to get you started:
   - 十年前第一次實作 ParseC https://github.com/YauHsien/erljscon
 - （啟動中）多用戶交易的社群平台競購模型驗證 https://github.com/YauHsien/trade
 - （啟動中）enterprise 企業系統 https://github.com/YauHsien/enterprise
+
+##### 八皇后棋盤問題之解題
+(2021/6/6~9) 運用 Erlang 程式語言，並以 wxErlang / wxWidgets / wxImage / wxMemoryDC 繪圖。
+
+[https://github.com/YauHsien/erlang-exercises/tree/master/8-queens](https://github.com/YauHsien/erlang-exercises/tree/master/8-queens)
