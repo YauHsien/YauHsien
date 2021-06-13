@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - （啟動中）多用戶交易的社群平台競購模型驗證 https://github.com/YauHsien/trade
 - （啟動中）enterprise 企業系統 https://github.com/YauHsien/enterprise
 - （啟動中）會計應用程式 https://github.com/YauHsien/accounting
+- （啟動中）語言翻譯研發 https://github.com/YauHsien/translation/tree/main/v0
 
 ##### 八皇后棋盤問題之解題
 (2021/6/6~9) 運用 Erlang 程式語言，並以 wxErlang / wxWidgets / wxImage / wxMemoryDC 繪圖。
