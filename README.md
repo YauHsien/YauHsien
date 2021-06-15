@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ##### 既有的成就
 - Python 命令列資料處理工具組
   - https://github.com/YauHsien/pyetl
+    - 重整中 (2021/6/15) https://github.com/YauHsien/pyetl/tree/remastered
   - https://github.com/YauHsien/some_ETL
 - Google 雲端平台 Kubernetes engine 部署檔 https://github.com/YauHsien/gcp-gke-deployment
 - 一份多用戶交易的 https://github.com/YauHsien/fst-awesome-pretest 
