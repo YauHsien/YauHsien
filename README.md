@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     - 重整中 (2021/6/15) https://github.com/YauHsien/pyetl/tree/remastered
   - https://github.com/YauHsien/some_ETL
 - Google 雲端平台 Kubernetes engine 部署檔 https://github.com/YauHsien/gcp-gke-deployment
-- 一份多用戶交易的 https://github.com/YauHsien/fst-awesome-pretest 
+- 一份多用戶交易的模型 https://github.com/YauHsien/fst-awesome-pretest 
 
 ##### 正在運作的專案
 - （啟動中）多用戶交易的社群平台競購模型驗證 https://github.com/YauHsien/trade
