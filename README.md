@@ -5,6 +5,7 @@
 
 ##### 2022 正打算做的產品
 - 一套[會計系統](https://github.com/YauHsien/accounting)。
+- 一套[客群網路後勤整合](https://github.com/YauHsien/customer-networks)。
 - 一套教育資源規劃 (ERP) 系統。
 - 一套程式面向的社群服務系統。
 - 一套區塊鏈應用系統。
