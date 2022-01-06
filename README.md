@@ -11,6 +11,7 @@
 - 一套區塊鏈應用系統。
 - 一套視覺辨識與聽覺辨識技術的應用系統。
 - [教你會 Prolog](https://yauhsien.wordpress.com/2021/12/30/%e5%b0%88%e6%ac%84%e4%bc%81%e5%8a%83%ef%bc%9a%e3%80%8c%e6%95%99%e4%bd%a0%e6%9c%83-prolog-%e3%80%8d/) 專欄 [2021/12/30, 2022/1/[1,3,5]].
+- (休閒遊戲) [製作 Tetris 遊戲 (Prolog)](https://github.com/YauHsien/prolog-tetris) 。
 
 ##### 既有的成就
 - 2021 Advent of Code [以 Prolog 解題](https://github.com/YauHsien/advent-of-code-2021)
