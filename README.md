@@ -4,6 +4,7 @@
 我的志願是要做華文與台語文的語句翻譯；商案產品想做商業系統抽象化與網頁互動系統。
 
 ##### 2022 正打算做的產品
+- （ 4 月起）一套構想了幾個月的商案， [mart](https://github.com/YauHsien/mart) 為實現計畫。
 - 一套[會計系統](https://github.com/YauHsien/accounting)。
 - 一套[客群網路後勤整合](https://github.com/YauHsien/customer-networks)。
 - 一套教育資源規劃 (ERP) 系統。
