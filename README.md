@@ -3,6 +3,11 @@
 
 我的志願是要做華文與台語文的語句翻譯；商案產品想做商業系統抽象化與網頁互動系統。
 
+#### 2022/3/3 工作紀錄
+我目前正在用 Erlang/OTP 搭建一套網路與節點的骨幹。之後我要做一套媒體傳遞網路。
+
+Erlang 提供了足夠的工具，網路層與 OS 層之上層層堆疊，包括執行層 (ERTS) 與語言層 (Erlang) ，以及節點協定 (heart & EPMD protocol) 與通訊協定 (Distribution protocol) 。而如果還有什麼不夠的，也可以自己做。
+
 ##### 2022 正打算做的產品
 - （ 4 月起）一套構想了幾個月的商案， [mart](https://github.com/YauHsien/mart) 為實現計畫。
 - 一套[會計系統](https://github.com/YauHsien/accounting)。
