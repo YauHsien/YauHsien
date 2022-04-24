@@ -21,6 +21,7 @@ Erlang 提供了足夠的工具，網路層與 OS 層之上層層堆疊，包括
 - （休閒遊戲） [Ren'Py 翻譯助手](https://github.com/YauHsien/renpy-tl-solver)
 
 ##### 既有的成就
+- [BEAM Sprawl](https://github.com/YauHsien/beamsprawl/tree/main/sprawl)： Erlang OTP 網路接合方案。
 - 2021 Advent of Code [以 Prolog 解題](https://github.com/YauHsien/advent-of-code-2021)
 - [Prolog 問答猜謎遊戲](https://github.com/YauHsien/prolog_guess_who_game)
 - [Prolog 解數獨](https://github.com/YauHsien/sudoku-solvers)
