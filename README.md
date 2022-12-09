@@ -5,7 +5,7 @@
 
 #### 2022/12 進行中
 
-- [Advent of Code 2022 年度解題](https://github.com/YauHsien/advent-of-code-2022)，[由此見題目](https://adventofcode.com/2022)（須註冊帳號並登入）。
+- [我的 Advent of Code 2022 年度解題](https://github.com/YauHsien/advent-of-code-2022)；[由此見題目](https://adventofcode.com/2022)（須註冊帳號並登入）。
 
 #### 2022 年底報告
 今年開始大約編列了六項專案打算，不過以經驗來講，一年六項，每一件平均執行二個月，究竟能做多少，心知肚明。
