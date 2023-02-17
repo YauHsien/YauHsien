@@ -3,13 +3,17 @@
 
 我的志願是要做華文與台語文的語句翻譯；商案產品想做商業系統抽象化與網頁互動系統。
 
+#### 2023/2 進行
+
+[NOSTR 通訊協定實作提案 (NIPs, Nostr Implementation Proposal) 中文翻譯計畫](https://github.com/YauHsien/nips/tree/zhtw-translation)
+
 #### 2023 年度計畫
 
 1. 密切學習語言學。
 2. 雖已底定創業作品規模，但是，我需要生活，所以要上班賺錢了。
 3. 繼續多寫點 Prolog ；希望是朝著邏輯方向寫程式，而不是朝著普通的工程技術方向寫。
 
-#### 2022/12 進行中
+#### 2022/12 進行
 
 - [我的 Advent of Code 2022 年度解題](https://github.com/YauHsien/advent-of-code-2022)；[由此見題目](https://adventofcode.com/2022)（須註冊帳號並登入）。
 
