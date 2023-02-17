@@ -5,7 +5,7 @@
 
 #### 2023/2 進行
 
-[NOSTR 通訊協定實作提案 (NIPs, Nostr Implementation Proposal) 中文翻譯計畫](https://github.com/YauHsien/nips/tree/zhtw-translation)
+[NOSTR 通訊協定實作提案 (NIPs, Nostr Implementation Proposal) 中文翻譯計畫](https://github.com/nostr-protocol/nips/compare/master...YauHsien:nips:zhtw-translation)
 
 #### 2023 年度計畫
 
